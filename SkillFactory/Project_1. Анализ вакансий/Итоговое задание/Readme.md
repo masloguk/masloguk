@@ -1,0 +1,2 @@
+Ссылка на исходный дата-сет: https://drive.google.com/file/d/14iTw0AfcGA-BvaKU2rTR5KyTWa0FJTJU/view?usp=sharing
+Ссылка на дата-сет с данными по валютному обмену: https://drive.google.com/file/d/19EvwnQWHhOuhSnuGU_vT5FSxosEg7wbz/view
