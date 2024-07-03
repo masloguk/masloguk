@@ -28,7 +28,8 @@
 - AlternatingLeastSquares
 - LightFM
 
-Наиболее высокую метрику дает LightFM со следующими гиперпараметрами: - no_components=150
+Наиболее высокую метрику дает LightFM со следующими гиперпараметрами:
+- no_components=150
 - loss='warp',
 - learning_rate=0.05,
 - learning_schedule="adadelta".
